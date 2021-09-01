@@ -10,7 +10,7 @@
 <p>7)Após a importação das fontes, adicione as seguintes regras de estilo ao arquivo style.css:</p>
 <p>a) cor de fundo da tag body em modo hexadecimal no valor #131313</p>
 <p>b) cor do texto da tag h1 em cor predefinida de nome ‘white’</p>
-<p>c)</p>
+<p>c) largura da classe media-picture em 100%</p>
 <p>d) fonte do texto da tag h1 para Roboto</p>
 <p>e) altura da classe media-picture em 400px</p>
 <p>f) imagem de fundo da classe media-picture à sua escolha</p>
