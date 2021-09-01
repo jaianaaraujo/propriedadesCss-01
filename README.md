@@ -1,5 +1,5 @@
 # propriedadesCss-01
-<h1> Atividade prátiva - revisão do conteúdo (propriedades css - introdução) </h1>
+<h1> Atividade prática - revisão do conteúdo (propriedades css - introdução) </h1>
 <p> 1) Faça o download desse documento index.html em sua máquina;
 </p>
 
