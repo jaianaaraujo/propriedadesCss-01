@@ -21,6 +21,6 @@
 Adicione a regra background-size: cover; em sua classe media-picture, isso fará com que independente do tamanho da sua imagem ela se adeque à largura de 100% que definimos.Adicione a regra background-position: center; 
 </p>
 
-<p> Link: https://jaianaaraujo.github.io/propriedadesCss-01/ </p>
+
 
 ![vingadores (2)](https://user-images.githubusercontent.com/85362901/131600168-117e252b-0dfa-4864-9f71-0473d2e2273d.png)
