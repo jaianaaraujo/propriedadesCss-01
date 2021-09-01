@@ -27,3 +27,5 @@ Adicione a regra background-size: cover; em sua classe media-picture, isso fará
 	Agora podemos posicioná-la na direção em que você achar melhor, lembrando que esse passo é opcional. Adicione a regra background-position: center; em sua classe media-picture, isso fará com que a imagem se ajuste ao centro mas podemos alinhar em outros eixos também.
 Você pode trocar o valor center por left, top, right e bottom. Cada um deles irá ajustar à imagem de uma maneira diferente, faça o teste e descubra qual posição fica melhor para sua imagem! 
 </p>
+
+![vingadores (2)](https://user-images.githubusercontent.com/85362901/131600168-117e252b-0dfa-4864-9f71-0473d2e2273d.png)
